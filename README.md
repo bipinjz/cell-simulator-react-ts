@@ -1,9 +1,10 @@
 # Instructions
 
 
-## Available Scripts
+### `yarn install`
 
-In the project directory, you can run:
+Run this command first to install all packages
+
 
 ### `yarn start`
 
@@ -21,9 +22,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Usage
 
-- At initial state, User will see an empty board.
+- At initial state, you will see an empty board and buttons below it.
 - Click on cells to make it 'live' represented by white color or 'dead' represented by black color
-- Click on 'Next Generation' button to generate Board 
+- Click on 'Next Generation' button to generate new board 
     
 - Click on 'Reset' Button to reset board to blank
 
