@@ -29,3 +29,6 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Click on 'Reset' Button to reset board to blank
 
 - Click on 'Start' Button to do auto simulation
+
+## Demo
+https://salmon-field-02141ed10.azurestaticapps.net/
